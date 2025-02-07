@@ -1,0 +1,9 @@
+setup.py
+src/ftransfer.egg-info/PKG-INFO
+src/ftransfer.egg-info/SOURCES.txt
+src/ftransfer.egg-info/dependency_links.txt
+src/ftransfer.egg-info/entry_points.txt
+src/ftransfer.egg-info/requires.txt
+src/ftransfer.egg-info/top_level.txt
+src/quicktransfer/__init__.py
+src/quicktransfer/transfer.py

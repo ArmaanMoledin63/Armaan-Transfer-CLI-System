@@ -1,0 +1,2 @@
+[console_scripts]
+qtransfer = quicktransfer.transfer:main

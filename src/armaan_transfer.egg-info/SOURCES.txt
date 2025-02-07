@@ -1,0 +1,9 @@
+setup.py
+src/armaan_transfer.egg-info/PKG-INFO
+src/armaan_transfer.egg-info/SOURCES.txt
+src/armaan_transfer.egg-info/dependency_links.txt
+src/armaan_transfer.egg-info/entry_points.txt
+src/armaan_transfer.egg-info/requires.txt
+src/armaan_transfer.egg-info/top_level.txt
+src/quicktransfer/__init__.py
+src/quicktransfer/transfer.py
