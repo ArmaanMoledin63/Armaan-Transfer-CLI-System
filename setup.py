@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="armaan-transfer",  # Pick a unique name
+    name="armaan-transfer",  
     version="0.1.0",
     packages=["quicktransfer"],
     package_dir={"": "src"},
