@@ -1,6 +1,6 @@
 # Armaan-Transfer-CLI-System
 
-A lightning-fast CLI tool for secure peer-to-peer file transfers between computers on the same network.
+A lightning-fast CLI tool for secure peer-to-peer file transfers between computers on the same network. This is a side project I am working on besides my main project of a recycling app. I am open to feedbacks about my code and any further discussions that come with it. Feel free to improve my existing system. Looking forward to connecting with like minded folks! 
 
 ## Features
 - 🚀 Fast peer-to-peer file transfer
