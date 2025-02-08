@@ -6,6 +6,6 @@ setup(
     package_dir={"": "src"},
     install_requires=["tqdm"],
     entry_points={
-        "console_scripts": ["armaan-transfer=quicktransfer.transfer:main"]
+        "console_scripts": ["armaan-transfer=quicktransfer.transfer:main"]  # Changed from ftransfer to armaan-transfer
     },
 )
