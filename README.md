@@ -10,7 +10,7 @@ A lightning-fast CLI tool for secure peer-to-peer file transfers between compute
 
 ## Installation
 
-I published a python package:
+I published a python package: armaan-transfer(package name)
 ```bash
 pip install armaan-transfer
 ```
